@@ -1,0 +1,6 @@
+{
+  "clientID": "",
+  "clientSecret": "",
+  "redirectURI": "http://localhost:8888/callback/spotify",
+  "userID": "1137015997"
+}
