@@ -1,3 +1,5 @@
 node_modules
 config/spotify.json
-data/refreshToken
+config/reddit.json
+data/spotifyRefreshToken
+data/redditRefreshToken
