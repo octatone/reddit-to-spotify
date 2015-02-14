@@ -1,5 +1,6 @@
-node_modules
-config/spotify.json
 config/reddit.json
-data/spotifyRefreshToken
+config/spotify.json
 data/redditRefreshToken
+data/spotifyRefreshToken
+lib/app/public
+node_modules
